@@ -18,4 +18,4 @@ mongo-express：mongodb 的 web 客户端
 - docker exec -it <container-name> bash （使用容器名登录容器）
 
 ## mongodb 常用命令
-- mongo -u <username> -p <password> [--authenticationDatabase <database-name>]
+- mongo -u < username > -p <password> [--authenticationDatabase < database-name >]
